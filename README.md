@@ -22,6 +22,8 @@ Installer et me rendre accessible un serveur sur votre réseau privé ou bien tr
 
 
 # Finished interactions
-![chatbot-2](https://user-images.githubusercontent.com/17324902/203377952-1dc5b147-6dab-47c4-8f8d-abeb821e4330.png)
+
+<img alt="chatbot-2" src="https://user-images.githubusercontent.com/17324902/203381023-2d1aedb0-cd1b-4206-879e-9742fb3b303c.png">
+
 
 ![chatbot-3](https://user-images.githubusercontent.com/17324902/203377956-9bc1b979-8f4c-4c0b-bdf5-6f4c80db20eb.png)
