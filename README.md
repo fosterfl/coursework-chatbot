@@ -1,4 +1,5 @@
-![tchatbot-sm](https://user-images.githubusercontent.com/17324902/203379718-c188f7aa-2117-45d0-8c2e-982800af8342.png)
+![tchatbot-header](https://user-images.githubusercontent.com/17324902/203384349-885c00ad-3797-4139-8b07-2dca224edf6a.png)
+
 
 # coursework-chatbot
 A Chatbot I built for a class. I created the little mascot, seen above, and trained it in french. 
